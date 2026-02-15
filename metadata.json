@@ -1,0 +1,7 @@
+{
+  "name": "We deliver",
+  "description": "A comprehensive end-to-end delivery management platform for customers, drivers, and fleet owners. Features real-time tracking, financial analytics, and intelligent dispatching.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
